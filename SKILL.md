@@ -1,17 +1,34 @@
 ---
 name: gingiris-seo-geo-agent
 description: |
-  🇺🇸 SEO/GEO Agent Operations SOP — A complete hands-on playbook to run an autonomous SEO Agent that achieves ~32K impressions in one month. Covers Week 0-4 timeline, daily/weekly/monthly SOPs, keyword-to-landing-page mapping, CTA conversion blocks, daily report template, GEO triple combo (IndexNow + robots.txt + AI-friendly format), tool stack selection, and Owner Checklist. Battle-tested with real content site data.
+  You know SEO matters but you don't have time to do daily audits, track rankings, or validate schema markup. This is the AI agent SOP — set it up once, let your coding agent run it daily on autopilot.
 
-  🇨🇳 SEO/GEO Agent 运营 SOP —— 一份谁都能照着做的手把手手册，用一个 SEO Agent 跑到一个月 ~3.2 万曝光。包含 Week 0-4 时间线、每日/每周/每月 SOP、关键词→落地页映射表、CTA 转化块模板、每日报告模板、GEO 三件套（IndexNow + robots.txt + AI 爬虫开放）、工具链选型、产品负责人任务清单。经真实内容站验证。
+  What's inside:
+  • Daily 4-phase audit automation (technical → content → performance → report)
+  • GSC data pipeline (pull, analyze, prioritize keywords automatically)
+  • AI traffic tracking (ChatGPT/Perplexity referrals in GA4)
+  • Schema validation + auto-fix workflows
+  • IndexNow integration for instant indexing on publish
+  • Week 0-4 ramp-up timeline (from zero to ~32K impressions)
 
-  🇯🇵 SEO/GEO エージェント運用SOP — 1ヶ月で約3.2万インプレッションを達成する自律型SEOエージェントの完全マニュアル。Week 0-4タイムライン、日次/週次/月次SOP、キーワード→LP対応表、CTAテンプレート、デイリーレポート、GEOトリプルセット。
-
-  🇰🇷 SEO/GEO 에이전트 운영 SOP — 한 달 만에 ~3.2만 노출을 달성하는 자율 SEO 에이전트 완전 매뉴얼. Week 0-4 타임라인, 일간/주간/월간 SOP, 키워드→랜딩페이지 매핑, CTA 블록, 일일 보고서, GEO 트리플 콤보.
+  Built from: Designed for Claude Code / OpenClaw / Cursor autonomous execution. Validated with real content site data.
 
   Triggers: "SEO agent" | "SEO automation" | "SEO Agent SOP" | "autonomous SEO" | "SEO daily report" | "SEO Agent运营" | "SEO自动化" | "GEO agent" | "32K impressions" | "3.2万曝光" | "keyword mapping" | "CTA conversion SOP" | "SEO报告模板" | "IndexNow setup" | "AI crawler robots.txt" | "DataForSEO" | "SEO工具链" | "SEO Agent 日报"
 ---
 
+
+## 📦 Install
+
+```bash
+npx skills add Gingiris-1031/gingiris-seo-geo-agent
+```
+
+**What you get after installing:**
+- Autonomous 32K impressions/month SOP
+- Daily/weekly/monthly SEO checklists
+- IndexNow + robots.txt + AI-friendly format
+
+---
 # SEO/GEO Agent 运营 SOP
 
 > Language / 语言: [中文](#核心概念) | [English](#english-summary)
@@ -191,3 +208,14 @@ This skill provides a **complete day-by-day SOP** for running an autonomous SEO/
 **Relationship to other Gingiris skills:**
 - `gingiris-seo-geo` = Strategy & methodology
 - `gingiris-seo-geo-agent` = Daily execution & automation (this skill)
+
+---
+
+## 🔗 About the Author
+
+**Iris Wei** — Growth consultant for 150+ AI startups. Ex-COO at AFFiNE (69K GitHub stars).
+
+- 🐦 Twitter: [@WeiYipei](https://twitter.com/WeiYipei) — Daily growth tactics
+- 💬 Consulting: [@Iris_carrot on Telegram](https://t.me/Iris_carrot)
+- 🛒 Premium Bundle (all 5 playbooks + templates): [Get on Gumroad ($249)](https://gingiris.gumroad.com/l/gingiris-complete-global-launch-bundle)
+- 📚 40+ Free Playbooks: [gingiris.tools/skills](https://gingiris.tools/skills/)
